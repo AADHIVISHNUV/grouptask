@@ -1,2 +1,4 @@
 add
 subtract
+multiplication
+  division
